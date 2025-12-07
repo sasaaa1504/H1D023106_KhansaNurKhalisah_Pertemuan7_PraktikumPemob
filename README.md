@@ -6,6 +6,7 @@
 ---
 ## Dokumentasi
 
+<img src="https://github.com/sasaaa1504/H1D023106_KhansaNurKhalisah_Pertemuan7_PraktikumPemob/blob/main/docs/terminal.png" alt="terminal" width="500px">
 
 ## 📚 Tugas 5 - Pertemuan 7 Kalkulator Lingkaran 
 
